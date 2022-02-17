@@ -140,7 +140,7 @@ txt3('Others', '`GIT`, `Docker`, `PYQT5`')
 
 #####################
 st.markdown('''
-## Social Media
+## Catch Me On
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/visheshv/')
 
