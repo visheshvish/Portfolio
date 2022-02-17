@@ -44,7 +44,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#social-media">Social Media</a>
+        <a class="nav-link" href="#Certification">Certifications</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#Catch-me-on">Catch me on</a>
       </li>
     </ul>
   </div>
@@ -123,6 +126,15 @@ st.markdown('''
 - Currently learning app development using PYQT5/6 & improving existing skills.
 ''')
 
+#####################
+st.markdown('''
+## Certifications
+''')
+
+txt('**Oracle Cloud Infrastructure Foundations 2021 Certified Associate**, Oracle University',
+    'Jan 2022 - Feb 2022')
+txt('**Crash Course On Python**, Coursera, Google', 'April 2021 - June 2021')
+txt('**IBM Data Science**, Coursera, IBM', 'Nov 2021 - Present')
 
 #####################
 st.markdown('''
