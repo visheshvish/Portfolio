@@ -118,7 +118,7 @@ txt('**Computer Vision Operation Engineer**, Detect Technologies PVT LTD, IIT Ma
 st.markdown('''
 - Handeling and maintaining life cycle of AI Technologies and Linux Servers on AWS, and setting up the Intelligence Video Analytics (IVA) for Object Detection, Face Detection, Mask Detection, Intrusion Detection etc.
 - Visiting client site within india to understand AI business requirement and suggesting them a better and effiecient solution to shape the future.
-- Co-ordinating with multiple teams within organization to get the smooth workflow and helping the,m with solutions throughout the projects .
+- Co-ordinating with multiple teams within organization to get the smooth workflow and helping them with solutions throughout the projects .
 - Working on Python, linux, GIT, Docker, AWS, Shell Scripting, Computer Vision, OpenCV, Numpy, Pandas & many more.
 - Currently learning app development using PYQT5/6 & improving existing skills.
 ''')
