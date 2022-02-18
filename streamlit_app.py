@@ -97,7 +97,7 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Master of Science - Computer Science** (M.Sc CS), S K Somiaya Degree College, *Somaiya Vidyavihar University*, Mumbai, Maharashtra, India',
+txt('**Master of Science - Computer Science** (M.Sc CS), S K Somaiya Degree College, *Somaiya Vidyavihar University*, Mumbai, Maharashtra, India',
     '2021-2023')
 st.markdown('''
 - GPA: `9.40` Sem 1
@@ -157,3 +157,7 @@ st.markdown('''
 txt2('LinkedIn', 'https://www.linkedin.com/in/visheshv/')
 
 txt2('GitHub', 'https://github.com/visheshvish')
+
+txt2('Email', 'visheshv97@gmail.com')
+
+txt2('Contact', '+91-9768764743')
