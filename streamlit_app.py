@@ -155,9 +155,9 @@ txt3('Others', '`GIT`, `Docker`, `PYQT5`')
 st.markdown('''
 ## Catch Me On
 ''')
-txt2('LinkedIn', [Visheshkumar Vishwakarma](https://www.linkedin.com/in/visheshv/)')
+txt2('LinkedIn', '[Visheshkumar Vishwakarma](https://www.linkedin.com/in/visheshv/)')
 
-txt2('GitHub', [Visheshvish](https://github.com/visheshvish)')
+txt2('GitHub', '[Visheshvish](https://github.com/visheshvish)')
 
 txt2('Email', 'visheshv97@gmail.com')
 
