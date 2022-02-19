@@ -17,8 +17,9 @@ st.image(image, width=150)
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Master's student of Computer Science specialized in Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning and Software Development.
-- Skilled in Python Programming, java, SQL, GIT, Docker, PYQT5, Computer Vision, Shell Scripting, MongoDB, AWS, Oracle Cloud (OCI), Flask, Django.
-- Strong verbal and written communication skills, self directed learner & Self assertive.
+- A Computer Science Graduate is exploring many domains such as Cloud Computing, Artificial Intelligence, Machine Learning, Software Development, and working towards Real-Life problems to build unique and persist solutions.
+- Expertise in Python Programming and efficiently skilled Core Java, SQL, GIT, Docker, PYQT5, Computer Vision, Shell/Bash Scripting, MongoDB, AWS, Oracle Cloud Infrastructure (OCI), Flask, Django.
+- Strong verbal and written communication skills, self directed learner & self assertive.
 ''')
 
 #####################
@@ -104,7 +105,7 @@ st.markdown('''
 ''')
 
 
-txt('**Bachelor of Science - Computer Science** (B.Sc CS), NES Ratnam College of Arts Science And Commerce, *University Of Mumbai*, Maharashtra, India',
+txt('**Bachelor of Science - Computer Science** (B.Sc CS), NES Ratnam College, *University Of Mumbai*, Maharashtra, India',
     '2018-2021')
 st.markdown('''
 - CGPA: `8.56`
