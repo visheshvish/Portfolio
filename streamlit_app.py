@@ -17,7 +17,7 @@ st.image(image, width=150)
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Master's student of Computer Science specialized in Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning and Software Development.
-- A Computer Science Graduate is exploring many domains such as Cloud Computing, Artificial Intelligence, Machine Learning, Software Development, and working towards Real-Life problems to build unique and persist solutions.
+- Exploring many domains such as Cloud Computing, Artificial Intelligence, Machine Learning, Software Development, and working towards Real-Life problems to build unique and persist solutions.
 - Expertise in Python Programming and efficiently skilled Core Java, SQL, GIT, Docker, PYQT5, Computer Vision, Shell/Bash Scripting, MongoDB, AWS, Oracle Cloud Infrastructure (OCI), Flask, Django.
 - Strong verbal and written communication skills, self directed learner & self assertive.
 ''')
