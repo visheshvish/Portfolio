@@ -16,7 +16,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Master's student of Computer Science specialized in Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning and Software Development.
+- Master's student of Computer Science specialized in Cloud, Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning and Software Development.
 - Exploring many domains such as Cloud Computing, Artificial Intelligence, Machine Learning, Software Development, and working towards Real-Life problems to build unique and persist solutions.
 - Expertise in Python Programming and efficiently skilled Core Java, SQL, GIT, Docker, PYQT5, Computer Vision, Shell/Bash Scripting, MongoDB, AWS, Oracle Cloud Infrastructure (OCI), Flask, Django.
 - Strong verbal and written communication skills, self directed learner & self assertive.
@@ -132,6 +132,8 @@ st.markdown('''
 ## Certifications
 ''')
 
+txt('**AWS Cloud Practitioner Essentials**, [Amazon Web Services](https://www.coursera.org/account/accomplishments/certificate/G267XZ332TN7),
+    'Feb 2022 - March 2022')
 txt('**Oracle Cloud Infrastructure Foundations 2021 Certified Associate**, [Oracle University](https://drive.google.com/file/d/1M3rKCTRaK6jv9HVO0P4dUy9nw7aGMyLt/view?usp=sharing), [Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9D05AA3A478E52613BA5A80FF126EF60D9EAC91EF7A0C523E612E6AA40EC284B)',
     'Jan 2022 - Feb 2022')
 txt('**Crash Course On Python**, Coursera, Google, [View](https://www.coursera.org/account/accomplishments/certificate/LE9ZD69UZ24U)', 'April 2021 - June 2021')
