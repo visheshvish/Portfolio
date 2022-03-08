@@ -151,6 +151,7 @@ txt3('Deep Learning', '`TensorFlow`')
 txt3('Web development', '`Flask`, `HTML`, `CSS`, `Django`')
 txt3('Model deployment',
      '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`')
+txt3('Cloud - AWS (Basics)', '`EC2`, `S3`, `Lambda`, `Redshift`, `VPC`, `DynamoDB`, `Auto Scaling`, `EBS`')
 txt3('Others', '`GIT`, `Docker`, `PYQT5`')
 
 #####################
