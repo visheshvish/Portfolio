@@ -16,9 +16,9 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Master's student of Computer Science specialized in Cloud, Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning and Software Development.
+- Master's student of Computer Science having speciality in Cloud, Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning and Software Development.
 - Exploring many domains such as Cloud Computing, Artificial Intelligence, Machine Learning, Software Development, and working towards Real-Life problems to build unique and persist solutions.
-- Expertise in Python Programming and efficiently skilled Core Java, SQL, GIT, Docker, PYQT5, Computer Vision, Shell/Bash Scripting, MongoDB, AWS, Oracle Cloud Infrastructure (OCI), Flask, Django.
+- Expertise in Python Programming and efficiently skilled Core Java, SQL, GIT, Docker, PYQT6, Computer Vision, Shell/Bash Scripting, Terraform, MongoDB, AWS, Oracle Cloud Infrastructure (OCI), Flask, Django.
 - Strong verbal and written communication skills, self directed learner & self assertive.
 ''')
 
@@ -152,7 +152,7 @@ txt3('Web development', '`Flask`, `HTML`, `CSS`, `Django`')
 txt3('Model deployment',
      '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`')
 txt3('Cloud - AWS (Basics)', '`EC2`, `S3`, `Lambda`, `Redshift`, `VPC`, `DynamoDB`, `Auto Scaling`, `EBS`')
-txt3('Others', '`GIT`, `Docker`, `PYQT5`')
+txt3('Others', '`GIT`, `Docker`, `PYQT5`, `Terraform`, `IaC`')
 
 #####################
 st.markdown('''
