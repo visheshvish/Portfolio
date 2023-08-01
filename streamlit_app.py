@@ -116,8 +116,8 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Technology Associate**, Detect Technologies PVT LTD, IIT Madras Research Park, Chennai, Tamilnadu, India.',
-    'Sep 2022 - Present')
+txt('**Technology Associate 2**, Detect Technologies PVT LTD, IIT Madras Research Park, Chennai, Tamilnadu, India.',
+    'November 2021 - September 2023')
 st.markdown('''
 - Designed and developed end-to-end python application, service and deployed into EC2 Instance (linux) to extract the Image data from the API and upload to AWS S3.
 - Created an automation script using bash scripting to monitor AWS and Azure cloud infrastructure usage. Additionally, successfully optimized Docker images by 50% and pushed them to the Docker Registry.
