@@ -142,16 +142,18 @@ txt('**Introduction to SQL**, [Datacamp](https://www.datacamp.com/statement-of-a
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `R`, `Linux`,`Java`')
+txt3('Programming', '`Python`, `Linux`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
-txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `altair`, `ggplot2`')
+txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`')
 txt3('Machine Learning', '`scikit-learn`,`OpenCV`')
 txt3('Deep Learning', '`TensorFlow`')
-txt3('Web development', '`Flask`, `HTML`, `CSS`, `Django`')
+txt3('Web development', '`Flask`')
 txt3('Model deployment',
-     '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`')
+     '`streamlit`, `gradio`, `Heroku`, `AWS`, `Microsoft Azure`')
 txt3('Cloud - AWS (Basics)', '`EC2`, `S3`, `Lambda`, `Redshift`, `VPC`, `DynamoDB`, `Auto Scaling`, `EBS`')
-txt3('Others', '`GIT`, `Docker`, `PYQT5`, `Terraform`, `IaC`')
+txt3('IaC', '`GIT`, `Docker`, `PYQT5`, `Terraform`')
+txt3('SCM and VCS', '`GIT`, `Github`, `Gitlab`')
+txt3('Containarization', '`Docker`')
 
 #####################
 st.markdown('''
