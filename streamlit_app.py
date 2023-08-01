@@ -100,7 +100,7 @@ st.markdown('''
 txt('**Master of Science - Computer Science** (M.Sc CS), S K Somaiya Degree College, *Somaiya Vidyavihar University*, Mumbai, Maharashtra, India',
     '2021-2023')
 st.markdown('''
-- GPA: `9.20` Sem 2
+- CGPA: `9.40`
 ''')
 
 
