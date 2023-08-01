@@ -119,11 +119,10 @@ st.markdown('''
 txt('**Technology Associate**, Detect Technologies PVT LTD, IIT Madras Research Park, Chennai, Tamilnadu, India.',
     'Sep 2022 - Present')
 st.markdown('''
-- Handeling and maintaining life cycle of AI Technologies and Linux Servers on AWS, and setting up the Intelligence Video Analytics (IVA) for Object Detection, Face Detection, Mask Detection, Intrusion Detection etc.
-- Visiting client site within india to understand AI business requirement and suggesting them a better and effiecient solution to shape the future.
-- Co-ordinating with multiple teams within organization to get the smooth workflow and helping them with solutions throughout the projects .
-- Working on Python, linux, GIT, Docker, AWS, Shell Scripting, Computer Vision, OpenCV, Numpy, Pandas & many more.
-- Currently learning app development using PYQT5/6 & improving existing skills.
+- Designed and developed end-to-end python application, service and deployed into EC2 Instance (linux) to extract the Image data from the API and upload to AWS S3.
+- Created an automation script using bash scripting to monitor AWS and Azure cloud infrastructure usage. Additionally, successfully optimized Docker images by 50% and pushed them to the Docker Registry.
+- Engaged in complete DevOps lifecycle for computer vision applications, including installation, configuration, testing, and deployment on on-prem Linux servers, IoT devices (CCTV Camera), and EC2 Instances.
+- Developed a Classification model utilizing Inception and trained it on a dataset of 10,000 images, achieving an accuracy of 80%.
 ''')
 
 #####################
@@ -131,7 +130,7 @@ st.markdown('''
 ## Certifications
 ''')
 
-txt('**AWS Cloud Practitioner Essentials**, [Amazon Web Services](https://www.coursera.org/account/accomplishments/certificate/G267XZ332TN7)','Feb 2022 - March 2022')
+txt('**AWS Cloud Practitioner Essentials**, [AWS](https://www.coursera.org/account/accomplishments/certificate/G267XZ332TN7)','Feb 2022 - March 2022')
 txt('**Oracle Cloud Infrastructure Foundations 2021 Certified Associate**, [Oracle University](https://drive.google.com/file/d/1M3rKCTRaK6jv9HVO0P4dUy9nw7aGMyLt/view?usp=sharing), [Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9D05AA3A478E52613BA5A80FF126EF60D9EAC91EF7A0C523E612E6AA40EC284B)',
     'Jan 2022 - Feb 2022')
 txt('**Crash Course On Python**, Coursera, Google, [View](https://www.coursera.org/account/accomplishments/certificate/LE9ZD69UZ24U)', 'April 2021 - June 2021')
