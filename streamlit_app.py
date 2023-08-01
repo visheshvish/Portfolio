@@ -16,7 +16,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- A dedicated professional with approximately 2 years of experience excelling in process automations, analysis, reporting, cloud infrastructure, DevOps, application deployment, and end-to-end client management. A quick learner with a passion for emerging technologies and strong problem-solving abilities.
+- A dedicated professional with approximately 2 years of experience excelling in process automations, analysis, reporting, cloud infrastructure, AWS, Azure, DevOps, application deployment, and end-to-end client management. A quick learner with a passion for emerging technologies and strong problem-solving abilities.
 ''')
 
 #####################
