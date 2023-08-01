@@ -149,7 +149,7 @@ txt3('Deep Learning', '`TensorFlow`')
 txt3('Web development', '`Flask`')
 txt3('Model deployment',
      '`streamlit`, `gradio`, `Heroku`, `AWS`, `Microsoft Azure`')
-txt3('IaC', '`GIT`, `Docker`, `PYQT5`, `Terraform`')
+txt3('IaC', '`Terraform`')
 txt3('SCM and VCS', '`GIT`, `Github`, `Gitlab`')
 txt3('Containarization', '`Docker`')
 
