@@ -118,14 +118,6 @@ st.markdown('''
 
 txt('**Technology Associate**, Detect Technologies PVT LTD, IIT Madras Research Park, Chennai, Tamilnadu, India.',
     'Sep 2022 - Present')
-
-
-txt('**Computer Vision DevOps Engineer**, Detect Technologies PVT LTD, IIT Madras Research Park, Chennai, Tamilnadu, India.',
-    'March 2022 - August 2022')
-
-
-txt('**Computer Vision Operation Engineer**, Detect Technologies PVT LTD, IIT Madras Research Park, Chennai, Tamilnadu, India.',
-    'Nov 2021 - Feb 2022')
 st.markdown('''
 - Handeling and maintaining life cycle of AI Technologies and Linux Servers on AWS, and setting up the Intelligence Video Analytics (IVA) for Object Detection, Face Detection, Mask Detection, Intrusion Detection etc.
 - Visiting client site within india to understand AI business requirement and suggesting them a better and effiecient solution to shape the future.
